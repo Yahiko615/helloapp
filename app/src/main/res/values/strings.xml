@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">helloapp</string>
+    <string name="click">Click me</string>
+    <string name="myname">Сутягин Михаил</string>
+    <string name="hello">Witaj, Swetie!</string>
+
+</resources>
